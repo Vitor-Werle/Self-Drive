@@ -1,6 +1,5 @@
 import cv2                      # OpenCV: processamento de imagens
 import numpy as np              # NumPy: arrays e operações numéricas
-import matplotlib.pyplot as plt # Matplotlib: usado só para visualizar a imagem (no final)
 
 def canny_algorithm(image):
     # Converte a imagem de BGR (formato padrão do OpenCV) para tons de cinza.
