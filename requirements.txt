@@ -2,3 +2,6 @@ pandas
 numpy
 opencv-contrib-python
 matplotlib
+python-socketio
+flask
+eventlet
